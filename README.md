@@ -23,4 +23,5 @@ $ make ARCH=arm64 distclean
 $ rm -rf out
 ################################################################################
 En:Extracted from the official kernel source code (DUK EMUI8)
+
 Ch:提取自官方内核源码(DUK EMUI8)
